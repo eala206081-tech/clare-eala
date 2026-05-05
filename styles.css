@@ -1,0 +1,67 @@
+.icon{
+	display: flex;
+	align-items: center; 
+	gap: 10px;
+}
+.logo{
+	font-size:50;
+}
+.ngek{ 
+	display: flex;
+	align-items: center;
+	gap: 37px;
+}
+
+.button {
+  background-color: #597b59;
+  border: 2px solid white;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  font-family:Quicksand;
+  cursor: pointer;
+  border-radius: 15px;
+
+}
+.socmeds{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 37px;
+}
+.woop{
+	display: flex;
+	align-items: center;
+	gap: 37px;
+}
+
+.educbg{
+	display: flex;
+	align-items: center;
+	gap: 100px;
+}
+
+.lastnatohyey{
+	display: flex;
+	align-items: flex-start;
+	gap: 100px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center; 
+  gap: 15px; 
+  margin-left: 220px; 
+}
+
+.contact-item p {
+  margin: 0; 
+}
+
+.main{
+	display: flex;
+	align-items: flex-start;
+	gap: 0px;
+}	
